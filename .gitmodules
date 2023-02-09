@@ -1,0 +1,3 @@
+[submodule "percy-csharp-selenium"]
+	path = percy-csharp-selenium
+	url = https://github.com/vvchens/percy-csharp-selenium
